@@ -1,9 +1,10 @@
-# api_traversal
+# api traversal
 
 
 #### Instructions:
 
-make an api call to omdapi get a movie :
+make an api call to grab a movie form a text field and then
+hit omdapi get a movie :
 http://www.omdbapi.com/?s=minions
 
 
@@ -17,4 +18,7 @@ If you have time, build a media query so that the images and titles get
 slightly smaller if viewing on a phone.
 
 
-See mockup for example.
+
+
+See mockup for example of how the image column should look. 
+
